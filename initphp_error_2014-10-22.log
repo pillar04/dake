@@ -1,0 +1,3 @@
+[2014-10-22 12:59:49]msg:newsController is not exist!;file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);
+[2014-10-22 03:48:57]msg:Table 'dake.initapp_news_classes' doesn't exist;file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);
+[2014-10-22 03:49:13]msg:Unknown column 'depth' in 'order clause';file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);

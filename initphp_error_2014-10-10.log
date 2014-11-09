@@ -1,0 +1,6 @@
+[2014-10-10 03:59:21]msg:Unknown column 'sort' in 'field list';file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);
+[2014-10-10 03:59:34]msg:Unknown column 'sort' in 'field list';file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);
+[2014-10-10 04:00:53]msg:Unknown column 'sort' in 'field list';file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);
+[2014-10-10 04:01:37]msg:Unknown column 'sort' in 'field list';file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);
+[2014-10-10 04:01:46]msg:Unknown column 'sort' in 'field list';file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);
+[2014-10-10 04:01:52]msg:Unknown column 'sort' in 'field list';file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);

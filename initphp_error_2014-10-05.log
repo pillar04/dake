@@ -1,0 +1,2 @@
+[2014-10-05 08:40:09]msg:singlesController is not exist!;file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);
+[2014-10-05 08:41:14]msg:E:\VertrigoServ\www\dake/web/template/admin/singles/run.htm is not exist!;file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);

@@ -1,0 +1,1 @@
+[2014-10-20 03:32:42]msg:newsController is not exist!;file:E:\VertrigoServ\www\dake\initphp\initphp.php;line:380;code:		throw new exceptionInit($msg, $code);
